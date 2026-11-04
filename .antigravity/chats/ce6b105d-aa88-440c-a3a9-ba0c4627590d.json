@@ -4,5 +4,18 @@
   "createdAt": "2026-11-04T04:41:33.052Z",
   "filename": "ce6b105d-aa88-440c-a3a9-ba0c4627590d.json",
   "geminiStarted": false,
-  "messages": []
+  "messages": [
+    {
+      "id": "83123c29-0222-4ac8-935c-e0b82653b422",
+      "role": "user",
+      "content": "I attached images: images/photo-1793767260-628a8461.jpg, images/photo-1793767270-c0028f79.jpg.\n\nreplace my photo whch is i been uploaded with already existed pic in tht portfolio phto and even replace my name with \"Jambula Kavya\" and in the replace of \"Founder and CEO of technical hub and torii minds\" with \"CSE(AIML) deptarment 3rd Year\" and keep everything same as it as ....strictlyyy keep everything same (exactlyyyy ) of color shade of text all options and all kind of icons keeep everything exactlyyyyy and later i will give the certificates and number certificates whch i has been awarded to meee replace with their certificates and in the place of download profile (pdf) replace it with download resume and also remove the 2014 impact at a glance and give exactlyy same rest of alllllllll",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-11-04T04:44:04.253Z",
+      "sender": "ios",
+      "is_cancelled": false
+    }
+  ]
 }
